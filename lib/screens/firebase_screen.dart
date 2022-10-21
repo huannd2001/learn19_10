@@ -22,12 +22,7 @@ class _FirebaseScreenState extends State<FirebaseScreen> {
     print(deviceToken);
     FirebaseMessaging.onMessage.listen(
       (RemoteMessage message) {
-        // debugPrint("onMessage:");
-        // print("onMessage: $message");
-        // final snackBar = SnackBar(
-        //   content: Text(message.notification?.title ?? ""),
-        // );
-        // ScaffoldMessenger.of(context).showSnackBar(snackBar);
+
         Alert(
           context: context,
           type: AlertType.none,
