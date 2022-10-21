@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228208023470",
+    "project_id": "learn1910",
+    "storage_bucket": "learn1910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228208023470:android:67a477c6574a39ca965a3f",
+        "android_client_info": {
+          "package_name": "com.example.leanr_19_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228208023470-e0nfjht3et4cu96gnt3b4p6mvob9r8te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVqDTrrPxF1Qv0qSDnaBqKkvmCnMzBA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228208023470-e0nfjht3et4cu96gnt3b4p6mvob9r8te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
